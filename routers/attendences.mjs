@@ -1,6 +1,5 @@
 import express from "express";
 import { errorCapture } from "./error.mjs";
-import { pgClient } from "../database.mjs";
 
 const attendanceRouter = express.Router();
 

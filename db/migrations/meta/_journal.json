@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710129844781,
+      "tag": "0000_short_aqueduct",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710130070370,
+      "tag": "0001_cute_master_mold",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710388856358,
+      "tag": "0002_shiny_sabra",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710389654362,
+      "tag": "0003_dear_the_phantom",
+      "breakpoints": true
+    }
+  ]
+}
